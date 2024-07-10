@@ -7,7 +7,7 @@
 
 <br>- 🧑🏻‍💻 Trabalho com tecnologia da informação com ênfase em: análise de dados, segurança da informação, redes de computadores e suporte. <br/>
 <br>- 🧑🏻‍🎓 Estudante de [Tecnologia da Informação no Instituto Infnet (https://ead.infnet.edu.br/faculdade/cursos/tecnologia-da-informacao/), modalidade live noturna (3/5). <br/>
-<br>- 🧠 Atualmente estou me aperfeiçoando em análise de dados, programação com python e programação web com javascript, html 5 e css 3 <br/>
+<br>- 🧠 Atualmente estou me aperfeiçoando em análise de dados, programação com python e programação web com javascript, html 5 e css 3. <br/>
 <br>- 🌱 Estou em transição de carreira depois de anos trabalhando com design gráfico, UX/UI, marketing e comunicação visual. <br/>
 
 ### 🌐 Socials:
