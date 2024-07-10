@@ -1,5 +1,8 @@
 ## 💫 Oi, sou o Claude! 👋
 
+<br> :email: clauder.brito@al.infnet.edu.br | claudersbrito@gmail.com <br/>
+<br> :iphone: (92) 9927-00255 <br/>
+
 ### 💫 Sobre mim:
 
 <br>- 🧑🏻‍💻 Trabalho com tecnologia da informação com ênfase em: análise de dados, segurança da informação, redes de computadores e suporte. <br/>
