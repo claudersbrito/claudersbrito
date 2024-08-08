@@ -1,12 +1,12 @@
 ## 💫 Oi, sou o Claude! 👋
 
 <br> :email: clauder.brito@al.infnet.edu.br | claudersbrito@gmail.com <br/>
-<br> :iphone: (92) 9927-00255 <br/>
+<br> :iphone: (92) 99270-0255 <br/>
 
 ### 💫 Sobre mim:
 
 <br>- 🧑🏻‍💻 Trabalho com tecnologia da informação com ênfase em: análise de dados, segurança da informação, redes de computadores e suporte. <br/>
-<br>- 🧑🏻‍🎓 Estudante de [Tecnologia da Informação no Instituto Infnet (https://ead.infnet.edu.br/faculdade/cursos/tecnologia-da-informacao/), modalidade live noturna (3/5). <br/>
+<br>- 🧑🏻‍🎓 Estudante de Tecnologia da Informação no Instituto Infnet, modalidade live noturna (3/5). <br/>
 <br>- 🧠 Atualmente estou me aperfeiçoando em análise de dados, programação com python e programação web com javascript, html 5 e css 3. <br/>
 <br>- 🌱 Estou em transição de carreira depois de anos trabalhando com design gráfico, UX/UI, marketing e comunicação visual. <br/>
 
