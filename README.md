@@ -1,7 +1,7 @@
 ## 💫 Oi, pode me chamar de Kaia! 👋
 
-<br> :email: clauder.brito@al.infnet.edu.br | claudersbrito@gmail.com <br/>
-<br> :iphone: (92) 99270-0255 <br/>
+<br> :email: clauder.brito@al.infnet.edu.br
+<br> :iphone: 92 8822-5451 <br/>
 
 ### 💫 Sobre mim:
 
